@@ -1,3 +1,14 @@
+> **CultureReset fork of [frappe/marketplace](https://github.com/frappe/marketplace).** Marketplace for Frappe Apps.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use [upstream](https://github.com/frappe/marketplace).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Marketplace
 
 This is the marketplace for [Frappe](https://frappeframework.com) apps — a
